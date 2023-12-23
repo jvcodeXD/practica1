@@ -1,1 +1,1 @@
-estoy resolviendo la pregunta 1 en java
+estoy resolviendo la pregunta 1 en c++
